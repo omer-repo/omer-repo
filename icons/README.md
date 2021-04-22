@@ -15,10 +15,9 @@
 <img align="left" width="32px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/c-sharp-logo.png" />
 <img align="left" width="32px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/net-core-logo.png" />
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/java-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/python-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/php-logo.png" />
+
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/angular-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/node-js-logo.png" />
+
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/js-logo.png" />
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/html-logo.png" />
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/css-logo.png" />
@@ -47,4 +46,3 @@
 <br />
 <br />
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=omer-repo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
