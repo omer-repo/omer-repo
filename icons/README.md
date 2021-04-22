@@ -32,14 +32,14 @@
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/vs-logo.png" />
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/vs-code-logo.png" />
 <img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/eclipse-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/exchange-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/Ubuntu-Logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/centos-logo-vertical.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/windows-server-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/vmware-logo.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/plesk-panel.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/da-logo-large.png" />
-<img align="left" width="28px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/cpanel-shadow.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/exchange-logo.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/Ubuntu-Logo.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/centos-logo-vertical.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/windows-server-logo.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/vmware-logo.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/plesk-panel.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/da-logo-large.png" />
+<img align="left"  height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/cpanel-shadow.png" />
 
 
 
