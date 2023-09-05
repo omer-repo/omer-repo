@@ -41,6 +41,6 @@
 
 
 <br />
-<br />
+<br /><a href="https://app.daily.dev/ofk"><img src="https://api.daily.dev/devcards/067381aed6c04dc498b0848e96450361.png?r=qzv" width="400" alt="Omer's Dev Card"/></a>
 <br />
 
