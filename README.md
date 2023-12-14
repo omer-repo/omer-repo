@@ -2,7 +2,7 @@
  My name is Omer KAYA. I'm a software developer from Turkey and coding over 15 years. You can contact me on my social media accounts below for more detailed information about me or if you have a question about my codes.
 
 <a href="https://www.linkedin.com/in/%C3%B6mer-kaya-810a9b200/" target="_blank"><img align="left" width="37px" height="36px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/linkedin-logo.png" /> </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ofaruk.k@gmail.com" target="_blank"><img align="left" width="30px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/gmail-logo.png" /> </a>
+<a href="mailto:mail@omerkaya.dev" target="_blank"><img align="left" width="30px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/gmail-logo.png" /> </a>
 <a href="https://omerkaya.dev" target="_blank"><img align="left" width="30px" height="32px" src="https://github.com/omer-repo/omer-repo/blob/main/icons/wwwlogo.png" /></a>
 
 
@@ -41,6 +41,6 @@
 
 
 <br />
-<br /><a href="https://app.daily.dev/ofk"><img src="https://github.com/omer-repo/omer-repo/blob/main/devcard.svg" width="400" alt="Omer's Dev Card"/></a>
+<br /><a href="https://app.daily.dev/ofk"><img src="https://github.com/omer-repo/omer-repo/blob/main/devcard.svg" width="200" alt="Omer's Dev Card"/></a>
 <br />
 
