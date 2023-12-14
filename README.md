@@ -41,6 +41,6 @@
 
 
 <br />
-<br /><a href="https://app.daily.dev/ofk"><img src="https://github.com/omer-repo/omer-repo/blob/main/devcard.svg" width="200" alt="Omer's Dev Card"/></a>
+<br /><a href="https://app.daily.dev/ofk"><img src="https://github.com/omer-repo/omer-repo/blob/main/devcard.svg" width="400" alt="Omer's Dev Card"/></a>
 <br />
 
