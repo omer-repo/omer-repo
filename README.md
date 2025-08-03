@@ -25,6 +25,15 @@ I’m passionate about **C# / .NET**, **Blazor**, **Web & Desktop applications**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Databases**  
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -45,6 +54,11 @@ I’m passionate about **C# / .NET**, **Blazor**, **Web & Desktop applications**
 
 ---
 
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=omer-repo&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omer-repo&theme=tokyonight)](https://git.io/streak-stats)
 
 <br />
 <br /><a href="https://app.daily.dev/ofk"><img src="https://github.com/omer-repo/omer-repo/blob/main/devcard.svg" width="400" alt="Omer's Dev Card"/></a>
